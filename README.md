@@ -6,16 +6,19 @@
 1.	Komal Gujarathi.
 2.	Snehal More.
 
+This file gives you the overview of what this Project. But for more details, please look Abstract, Code Files, Paper in this repository.
+
+
+### This paper is the recepient of 1st Prize
+
+![screen shot 2018-02-01 at 8 09 41 am](https://user-images.githubusercontent.com/24962915/35680097-4e94975e-0727-11e8-9598-711c0844d07d.png)
+
 
 ### Background:
 •	Prisoner's Dilemma is a game theory simulation used by sociologists to study human interactions. It shows that two individuals might not co-operate, even if it appears that it is in their best interests to do so.
 •	 It was originally framed by Merrill Flood and Melvin Dresher working at Rand in 1950.
 •	The comprehensive review was done by Axelrod and Dion, in 1988.
 Robert Axelrod conducted the competition where the scientists,mathematicians came from all over the world and submitted their strategies out of which the ‘TIT FOR TAT’ came out to be the best evolving strategy. 
-
-### This paper is the recepient of 1st Prize
-
-![screen shot 2018-02-01 at 8 09 41 am](https://user-images.githubusercontent.com/24962915/35680097-4e94975e-0727-11e8-9598-711c0844d07d.png)
 
 
 ### Aim:
