@@ -13,6 +13,8 @@
 •	The comprehensive review was done by Axelrod and Dion, in 1988.
 Robert Axelrod conducted the competition where the scientists,mathematicians came from all over the world and submitted their strategies out of which the ‘TIT FOR TAT’ came out to be the best evolving strategy. 
 
+### This paper is the recepient of 1st Prize
+
 
 ### Aim:
 •	The principle role of this paper is to place this work in the context of previous research on these and related issues put forth by the Axelrod.
