@@ -15,6 +15,8 @@ Robert Axelrod conducted the competition where the scientists,mathematicians cam
 
 ### This paper is the recepient of 1st Prize
 
+![screen shot 2018-02-01 at 8 09 41 am](https://user-images.githubusercontent.com/24962915/35680097-4e94975e-0727-11e8-9598-711c0844d07d.png)
+
 
 ### Aim:
 •	The principle role of this paper is to place this work in the context of previous research on these and related issues put forth by the Axelrod.
