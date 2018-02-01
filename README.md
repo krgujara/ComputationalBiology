@@ -6,7 +6,7 @@
 1.	Komal Gujarathi.
 2.	Snehal More.
 
-This file gives you the overview of what this Project. But for more details, please look Abstract, Code Files, Paper in this repository.
+This file gives you the overview of this Project. But for more details, please look Abstract, Code Files, Paper in this repository.
 
 
 ### This paper is the recepient of 1st Prize
